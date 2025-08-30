@@ -21,11 +21,11 @@
         }
     },
     "waveforms": {
-        "version": "3.24.2",
+        "version": "3.24.3",
         "systems": {
             "x86_64-linux": {
-                "url": "https://files.digilent.com/Software/Waveforms2015/3.24.2/digilent.waveforms_3.24.2_amd64.deb",
-                "hash": "sha256-EETVcpOy3eQ+8yFI8eBKGosxEIZACJ6UbQTF+cL1MIc="
+                "url": "https://digilent.com/reference/lib/exe/fetch.php?tok=904a7a&media=https%3A%2F%2Ffiles.digilent.com%2FSoftware%2FWaveforms%2F3.24.3%2Fdigilent.waveforms_3.24.3_amd64.deb",
+                "hash": "sha256-fCX2+Xa23UfQHx+msZcelIpwGcDnLuJq4a4oHFwyBJc="
             },
             "i686-linux": {
                 "url": "https://files.digilent.com/Software/Waveforms2015/3.24.2/digilent.waveforms_3.24.2_i386.deb",
